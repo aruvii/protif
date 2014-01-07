@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cont>
+    <contact id="1">
+        <name>alvi</name>
+        <phone>0000</phone>
+        <address>jakarta</address>
+    </contact>
+   <contact id="2">
+        <name>alvilagi</name>
+        <phone>00001</phone>
+        <address>cisitu</address>
+    </contact>
+
+</cont>
+
